@@ -1,0 +1,6 @@
+Game Ideas
+===========
+- 3d world to convey depth
+- fixed camera view
+- same screen, multiple difficulty levels
+- some tracks can be blocked off at the start then open up after time (added difficulty)
